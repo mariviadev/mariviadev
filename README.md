@@ -1,3 +1,5 @@
+![Mariam](https://github.com/mariviadev/mariviadev/assets/52761858/04d33229-2938-42ba-8bcd-d0853d7ba2e2)
+
 <h1 align="center">Hi 👋, I'm Mariam Khan</h1>
 <h3 align="center">A product designer & developer based in Canada.</h3>
 
