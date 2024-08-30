@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Mariam Khan</h1>
 <h3 align="center">A product designer & developer based in Canada.</h3>
 
-- 🔭 I’m currently working on **Trailblazer**
+- 🔭 I’m currently working on **Berrigold**
 
-- 🌱 I’m currently learning **React.js, Tailwind CSS**
+- 🌱 I’m currently learning **React.js, Tailwind CSS, Next.js and Typescript.**
 
 - 👨‍💻 All of my projects are available at [mariamkhan.dev](mariamkhan.dev)
 
