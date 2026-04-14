@@ -4,12 +4,7 @@
 <h3 align="center">A product designer & developer based in Canada.</h3>
 
 - 🔭 I’m currently working on **Berrigold**
-
 - 🌱 I’m currently learning **React.js, Tailwind CSS, Next.js and Typescript.**
-
-- 👨‍💻 All of my projects are available at [mariamkhan.dev](mariamkhan.dev)
-
-- 📫 How to reach me **mariamf.khan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
