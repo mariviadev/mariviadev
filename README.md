@@ -1,22 +1,11 @@
-<div align="center">
+<img src="/assets/banner.png" alt="Sofware Engineer. Front-end Developer. Product Builder." width="100%" />
 
-<img src="/assets/hero.svg" alt="Designing intuitive experiences for complex, data-driven products." width="100%" />
+# Hello world, I'm Mariam ✦
 
-# Hi, I'm Mariam Khan ✦
+### Building thoughtful, accessible digital experiences that prioritize clarity, reduce friction, and help people accomplish more with less effort.
 
-### Software Engineer · Front-End Developer · Product Builder
-
-Building thoughtful, accessible digital experiences that prioritize clarity, reduce friction, and help people accomplish more with less effort.
-
-</div>
-
----
-
-## ✦ About Me
-
-I'm a front-end focused software engineer with a background in UX design, computer science, and independent product development.
-
-My work sits at the intersection of engineering and design, combining technical implementation, product thinking, and user-centered design to build software that feels intuitive, reliable, and enjoyable to use.
+I'm a **product-focused software engineer** with a background in UX design, computer science, and independent product development.
+My work sits at the intersection of engineering and design, combining **technical implementation, product thinking, and user-centered design** to build software that feels intuitive, reliable, and enjoyable to use.
 
 I enjoy creating products that prioritize:
 
@@ -26,7 +15,7 @@ I enjoy creating products that prioritize:
 - Transparent and thoughtful user experiences
 - Efficient workflows and reduced friction
 
-Whether I'm building a mobile application, web platform, or developer tool, my goal is the same: make powerful functionality feel simple and approachable.
+Whether I'm building a mobile application, web platform, or developer tool, my goal is the same: **make powerful functionality feel simple and approachable.**
 
 ---
 
@@ -216,7 +205,7 @@ The best products reduce unnecessary complexity, respect users' time and attenti
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### Thanks for stopping by ✦
 
@@ -224,7 +213,7 @@ Feel free to reach out if you'd like to collaborate or connect at mariamf.khan@o
 
 </div>
 
-<table align="center" style="border: none; background: transparent;">
+<table align="left" style="border: none; background: transparent;">
 <tr>
 <td style="border: none; background: transparent;">
 <div style="font-family: monospace; white-space: pre; line-height: 1.2; text-align: left;">
