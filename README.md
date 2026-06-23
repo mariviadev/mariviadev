@@ -1,37 +1,231 @@
-![Mariam (72 x 20 in) (1)](https://github.com/mariviadev/mariviadev/assets/52761858/2285f5ae-e8d5-4e65-88a4-2ed3eb37f880)
-
-<h1 align="center">Hi 👋, I'm Mariam Khan</h1>
-<h3 align="center">A product designer & developer based in Canada.</h3>
-
-- 🔭 I’m currently working on **Berrigold**
-- 🌱 I’m currently learning **React.js, Tailwind CSS, Next.js and Typescript.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariviadev&show_icons=true&locale=en&layout=compact" alt="mariviadev" /></p>
-
-<!-- Code To Render Snake GIF -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariviadev/mariviadev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariviadev/mariviadev/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mariviadev/mariviadev/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-  <br/><br/>
+
+# Hi, I'm Mariam Khan ✦
+
+### Software Engineer · Front-End Developer · Product Builder
+
+Building thoughtful, accessible digital experiences that prioritize clarity, reduce friction, and help people accomplish more with less effort.
+
 </div>
 
-<!-- Code To Render 3D Commit Table -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
-</picture>
-<br/><br/>
+---
+
+## ✦ About Me
+
+I'm a front-end focused software engineer with a background in UX design, computer science, and independent product development.
+
+My work sits at the intersection of engineering and design, combining technical implementation, product thinking, and user-centered design to build software that feels intuitive, reliable, and enjoyable to use.
+
+I enjoy creating products that prioritize:
+
+- Clarity over complexity
+- Accessibility by default
+- Maintainable, scalable systems
+- Transparent and thoughtful user experiences
+- Efficient workflows and reduced friction
+
+Whether I'm building a mobile application, web platform, or developer tool, my goal is the same: make powerful functionality feel simple and approachable.
+
+---
+
+## ✦ Featured Projects
+
+### ALTURA — Image Accessibility & SEO Tool
+
+<div style="margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Next.js-2A2C35?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/TypeScript-2A2C35?style=for-the-badge&logo=typescript&logoColor=3178C6" height="26" />
+  <img src="https://img.shields.io/badge/Node.js-2A2C35?style=for-the-badge&logo=nodedotjs&logoColor=5FA41C" height="26" />
+  <img src="https://img.shields.io/badge/Hugging_Face_Inference_API-2A2C35?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="26" />
+</div>
+
+A browser-first accessibility and SEO assistant that generates alt text, captions, SEO titles, and metadata from uploaded images or direct URLs.
+
+**Highlights**
+
+- Integrated vision-language AI models through HuggingFace APIs
+- Built a complete image analysis pipeline using custom server-side processing
+- Designed around real-world publishing and content workflows
+- Developed accompanying marketing pages, privacy policy, and terms of use
+
+**Focus Areas**
+
+Accessibility · AI Integration · SEO Tooling · Product Development
+
+[![View Code](https://img.shields.io/badge/View_Code_→-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo)
+[![View Live Demo](https://img.shields.io/badge/View_Live_Demo_→-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/yourusername/your-repo)
+
+---
+
+### ZAIQA — Mobile Food Delivery App
+
+<div style="margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/React_Native-2A2C35?style=for-the-badge&logo=react&logoColor=61DAFB" height="26" />
+   <img src="https://img.shields.io/badge/Zustand-2A2C35?style=for-the-badge&logo=react&logoColor=646CFF" height="26" />
+   <img src="https://img.shields.io/badge/NativeWind-2A2C35?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" height="26" />
+  <img src="https://img.shields.io/badge/Expo_Router-2A2C35?style=for-the-badge&logo=expo&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Appwrite-2A2C35?style=for-the-badge&logo=appwrite&logoColor=FD366E" height="26" />
+  <img src="https://img.shields.io/badge/Sentry-2A2C35?style=for-the-badge&logo=sentry&logoColor=362D59" height="26" />
+</div>
+
+A full-stack mobile food delivery experience exploring authentication, search, state management, and scalable mobile architecture.
+
+**Highlights**
+
+- Built protected authentication flows using Expo Router and Appwrite
+- Implemented persisted authentication state using Zustand
+- Developed searchable menu browsing with category and keyword filtering
+- Integrated Sentry monitoring and session replay for production-grade observability
+
+**Focus Areas**
+
+Mobile Development · Authentication · State Management · App Architecture
+
+[![View Code](https://img.shields.io/badge/View_Code_→-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo)
+[![View Demo](https://img.shields.io/badge/View_Demo_→-10B981?style=for-the-badge&logo=loom&logoColor=white)](https://github.com/yourusername/your-repo)
+
+---
+
+### CODEPALETTR — Visual VS Code Theme Builder
+
+<div style="margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/React.js-2A2C35?style=for-the-badge&logo=react&logoColor=61DAFB" height="26" />
+  <img src="https://img.shields.io/badge/Vite.js-2A2C35?style=for-the-badge&logo=vite&logoColor=646CFF" height="26" />
+  <img src="https://img.shields.io/badge/Monaco_Editor-2A2C35?style=for-the-badge&logo=microsoft&logoColor=5FA41C" height="26" />
+  <img src="https://img.shields.io/badge/JavaScript-2A2C35?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="26" />
+</div>
+
+A visual editor that transforms color selections into exportable VS Code themes with live syntax-highlighted previews.
+
+**Highlights**
+
+- Integrated Monaco Editor with custom tokenization
+- Built a real-time theme generation engine
+- Generated exportable VS Code-compatible theme JSON
+- Created a complete product experience including exports, previews, and PWA support
+
+**Focus Areas**
+
+Developer Tooling · Design Systems · Front-End Engineering · UX for Technical Users
+
+[![View Code](https://img.shields.io/badge/View_Code_→-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo)
+[![View Live Demo](https://img.shields.io/badge/View_Live_Demo_→-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/yourusername/your-repo)
+
+---
+
+## ✦ Current Areas of Interest
+
+- Front-End Architecture
+- Design Systems
+- AI Design & Developer Tooling
+- Mobile Applications
+- Product-Oriented Software Development
+- Accessibility & Inclusive Design
+- Human-Centered Product Development
+- AI-Enhanced Workflows
+- Productivity & Workflow Software
+
+---
+
+## ✦ Technologies
+
+### Front-End
+
+<img src="https://img.shields.io/badge/React.js-1E1E24?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
+<img src="https://img.shields.io/badge/Next.js-1E1E24?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Vite.js-1E1E24?style=for-the-badge&logo=vite&logoColor=646CFF" height="28" />
+<img src="https://img.shields.io/badge/TypeScript-1E1E24?style=for-the-badge&logo=typescript&logoColor=3178C6" height="28" />
+<img src="https://img.shields.io/badge/JavaScript-1E1E24?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1E1E24?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" height="28" />
+<img src="https://img.shields.io/badge/CSS3-1E1E24?style=for-the-badge&logo=css&logoColor=1572B6" height="28" />
+<img src="https://img.shields.io/badge/HTML5-1E1E24?style=for-the-badge&logo=html5&logoColor=E34F26" height="28" />
+
+### Mobile
+
+<img src="https://img.shields.io/badge/React_Native-1E1E24?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
+<img src="https://img.shields.io/badge/Expo-1E1E24?style=for-the-badge&logo=expo&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/NativeWind-1E1E24?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" height="28" />
+
+### Back-End & Services
+
+<img src="https://img.shields.io/badge/Node.js-1E1E24?style=for-the-badge&logo=nodedotjs&logoColor=5FA41C" height="28" />
+<img src="https://img.shields.io/badge/Appwrite-1E1E24?style=for-the-badge&logo=appwrite&logoColor=FD366E" height="28" />
+<img src="https://img.shields.io/badge/REST_APIs-1E1E24?style=for-the-badge&logo=postman&logoColor=FF6C37" height="28" />
+<img src="https://img.shields.io/badge/Supabase-1E1E24?style=for-the-badge&logo=supabase&logoColor=3FCF8E" height="28" />
+<img src="https://img.shields.io/badge/Sanity-1E1E24?style=for-the-badge&logo=sanity&logoColor=F03E2F" height="28" />
+<img src="https://img.shields.io/badge/Python-1E1E24?style=for-the-badge&logo=python&logoColor=3776AB" height="28" />
+<img src="https://img.shields.io/badge/Java-1E1E24?style=for-the-badge&logo=coffeescript&logoColor=ED8B00" height="28" />
+
+### UI/UX & Design
+
+<img src="https://img.shields.io/badge/Figma-1E1E24?style=for-the-badge&logo=figma&logoColor=F24E1E" height="28" />
+<img src="https://img.shields.io/badge/Design_Systems-1E1E24?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Prototyping-1E1E24?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Accessibility-1E1E24?style=for-the-badge&logo=w3c&logoColor=005A9C" height="28" />
+
+### DevOps
+
+<img src="https://img.shields.io/badge/Git-1E1E24?style=for-the-badge&logo=git&logoColor=F05032" height="28" />
+<img src="https://img.shields.io/badge/GitHub-1E1E24?style=for-the-badge&logo=github&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Bitbucket-1E1E24?style=for-the-badge&logo=bitbucket&logoColor=0052CC" height="28" />
+<img src="https://img.shields.io/badge/Vercel-1E1E24?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Netlify-1E1E24?style=for-the-badge&logo=netlify&logoColor=00C7B7" height="28" />
+<img src="https://img.shields.io/badge/Docker-1E1E24?style=for-the-badge&logo=docker&logoColor=2496ED" height="28" />
+<img src="https://img.shields.io/badge/Cypress-1E1E24?style=for-the-badge&logo=cypress&logoColor=69C9D0" height="28" />
+<img src="https://img.shields.io/badge/Sentry-1E1E24?style=for-the-badge&logo=sentry&logoColor=362D59" height="28" />
+
+### AI
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-1E1E24?style=for-the-badge&logo=githubcopilot&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Claude_Code-1E1E24?style=for-the-badge&logo=claudecode&logoColor=D97706" height="28" />
+<img src="https://img.shields.io/badge/Codex-1E1E24?style=for-the-badge&logo=openaigym&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Vercel_v0-1E1E24?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Hugging_Face-1E1E24?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="28" />
+
+<img src="https://img.shields.io/badge/ChatGPT-1E1E24?style=for-the-badge&logo=openaigym&logoColor=10A37F" height="28" />
+<img src="https://img.shields.io/badge/Claude-1E1E24?style=for-the-badge&logo=claude&logoColor=D97706" height="28" />
+<img src="https://img.shields.io/badge/Gemini-1E1E24?style=for-the-badge&logo=googlegemini&logoColor=4285F4" height="28" />
+<img src="https://img.shields.io/badge/Google_Stitch-1E1E24?style=for-the-badge&logo=google&logoColor=4285F4" height="28" />
+<img src="https://img.shields.io/badge/Figma_Make-1E1E24?style=for-the-badge&logo=figma&logoColor=F24E1E" height="28" />
+
+---
+
+## ✦ Philosophy
+
+### Reducing friction through thoughtful software design.
+
+I believe great software should be intuitive, efficient, and easy to understand.
+
+The best products reduce unnecessary complexity, respect users' time and attention, and help people focus on accomplishing their goals rather than figuring out how the interface works.
+
+---
+
+<div align="center">
+
+### Thanks for stopping by ✦
+
+Feel free to reach out if you'd like to collaborate or connect at mariamf.khan@outlook.com.
+
+</div>
+
+<table align="center" style="border: none; background: transparent;">
+<tr>
+<td style="border: none; background: transparent;">
+<div style="font-family: monospace; white-space: pre; line-height: 1.2; text-align: left;">
+<font color="#FF007F">                                     /\</font>
+<font color="#FF00FF">                                    /  \</font>
+<font color="#D8B4FE">                                   /    \</font>
+<font color="#C084FC">                                  /      \</font>
+<font color="#A855F7">               /\                /        \</font>
+<font color="#8B5CF6">              /  \              /          \                 /\</font>
+<font color="#7C3AED">             /    \            /            \               /  \</font>
+<font color="#6366F1">____________/______\__________/______________\_____________/____\___________</font>
+<font color="#4F46E5">___/___/___/___/___/___/___/___/___/___/___/___/___/___/___/___/___/___/___/_</font>
+<font color="#3B82F6">__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__</font>
+<font color="#2563EB">_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_</font>
+<font color="#06B6D4">/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /</font>
+<font color="#0EA5E9">/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /</font>
+</div>
+</td>
+</tr>
+</table>
