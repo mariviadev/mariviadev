@@ -1,6 +1,6 @@
 <img src="/assets/header-banner.png" alt="Sofware Engineer. Front-end Developer. Product Builder." width="100%" />
 
-## ✦ Building thoughtful, accessible digital experiences that prioritize clarity, reduce friction, and help people accomplish more with less effort ✦
+## ✦ Building accessible digital experiences that prioritize clarity, reduce friction, and help people accomplish more with less effort ✦
 
 I'm a **product-focused software engineer** with a background in UX design, computer science, and independent product development.
 My work sits at the intersection of engineering and design, combining **technical implementation, product thinking, and user-centered design** to build software that feels intuitive, reliable, and enjoyable to use.
@@ -22,10 +22,10 @@ Whether I'm building a mobile application, web platform, or developer tool, my g
 ### ALTURA — Image Accessibility & SEO Tool
 
 <div style="margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Next.js-7B6A9E?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/TypeScript-7B6A9E?style=for-the-badge&logo=typescript&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Node.js-7B6A9E?style=for-the-badge&logo=nodedotjs&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Hugging_Face_Inference_API-7B6A9E?style=for-the-badge&logo=huggingface&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Next.js-7d599b?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/TypeScript-7d599b?style=for-the-badge&logo=typescript&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Node.js-7d599b?style=for-the-badge&logo=nodedotjs&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Hugging_Face_Inference_API-7d599b?style=for-the-badge&logo=huggingface&logoColor=white" height="26" />
 </div>
 
 A browser-first accessibility and SEO assistant that generates alt text, captions, SEO titles, and metadata from uploaded images or direct URLs.
@@ -49,12 +49,12 @@ Accessibility · AI Integration · SEO Tooling · Product Development
 ### ZAIQA — Mobile Food Delivery App
 
 <div style="margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/React_Native-7B6A9E?style=for-the-badge&logo=react&logoColor=white" height="26" />
-   <img src="https://img.shields.io/badge/Zustand-7B6A9E?style=for-the-badge&logo=react&logoColor=white" height="26" />
-   <img src="https://img.shields.io/badge/NativeWind-7B6A9E?style=for-the-badge&logo=tailwindcss&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Expo_Router-7B6A9E?style=for-the-badge&logo=expo&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Appwrite-7B6A9E?style=for-the-badge&logo=appwrite&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Sentry-7B6A9E?style=for-the-badge&logo=sentry&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/React_Native-7d599b?style=for-the-badge&logo=react&logoColor=white" height="26" />
+   <img src="https://img.shields.io/badge/Zustand-7d599b?style=for-the-badge&logo=react&logoColor=white" height="26" />
+   <img src="https://img.shields.io/badge/NativeWind-7d599b?style=for-the-badge&logo=tailwindcss&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Expo_Router-7d599b?style=for-the-badge&logo=expo&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Appwrite-7d599b?style=for-the-badge&logo=appwrite&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Sentry-7d599b?style=for-the-badge&logo=sentry&logoColor=white" height="26" />
 </div>
 
 A full-stack mobile food delivery experience exploring authentication, search, state management, and scalable mobile architecture.
@@ -78,10 +78,10 @@ Mobile Development · Authentication · State Management · App Architecture
 ### CODEPALETTR — Visual VS Code Theme Builder
 
 <div style="margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/React.js-7B6A9E?style=for-the-badge&logo=react&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Vite.js-7B6A9E?style=for-the-badge&logo=vite&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Monaco_Editor-7B6A9E?style=for-the-badge&logo=microsoft&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/JavaScript-7B6A9E?style=for-the-badge&logo=javascript&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/React.js-7d599b?style=for-the-badge&logo=react&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Vite.js-7d599b?style=for-the-badge&logo=vite&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Monaco_Editor-7d599b?style=for-the-badge&logo=microsoft&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/JavaScript-7d599b?style=for-the-badge&logo=javascript&logoColor=white" height="26" />
 </div>
 
 A visual editor that transforms color selections into exportable VS Code themes with live syntax-highlighted previews.
@@ -127,8 +127,8 @@ Developer Tooling · Design Systems · Front-End Engineering · UX for Technical
   <img src="https://img.shields.io/badge/TypeScript-3D1A6B?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/JavaScript-3D1A6B?style=for-the-badge&logo=javascript&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3D1A6B?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/CSS3-7B6A9E?style=for-the-badge&logo=css&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/HTML5-7B6A9E?style=for-the-badge&logo=html5&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/CSS3-7d599b?style=for-the-badge&logo=css&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/HTML5-7d599b?style=for-the-badge&logo=html5&logoColor=white" height="28" />
 </div>
 
 ### Mobile
@@ -136,7 +136,7 @@ Developer Tooling · Design Systems · Front-End Engineering · UX for Technical
 <div>
 <img src="https://img.shields.io/badge/React_Native-3D1A6B?style=for-the-badge&logo=react&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/NativeWind-3D1A6B?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Expo-7B6A9E?style=for-the-badge&logo=expo&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Expo-7d599b?style=for-the-badge&logo=expo&logoColor=white" height="28" />
 </div>
 
 ### Back-End & Services
@@ -145,11 +145,11 @@ Developer Tooling · Design Systems · Front-End Engineering · UX for Technical
   <img src="https://img.shields.io/badge/Node.js-3D1A6B?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Python-3D1A6B?style=for-the-badge&logo=python&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Java-3D1A6B?style=for-the-badge&logo=coffeescript&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Appwrite-7B6A9E?style=for-the-badge&logo=appwrite&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/REST_APIs-7B6A9E?style=for-the-badge&logo=postman&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Appwrite-7d599b?style=for-the-badge&logo=appwrite&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/REST_APIs-7d599b?style=for-the-badge&logo=postman&logoColor=white" height="28" />
 
-  <img src="https://img.shields.io/badge/Supabase-7B6A9E?style=for-the-badge&logo=supabase&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Sanity-7B6A9E?style=for-the-badge&logo=sanity&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Supabase-7d599b?style=for-the-badge&logo=supabase&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Sanity-7d599b?style=for-the-badge&logo=sanity&logoColor=white" height="28" />
 </div>
 
 ### UI/UX & Design
@@ -165,14 +165,14 @@ Developer Tooling · Design Systems · Front-End Engineering · UX for Technical
 
 <div>
   <img src="https://img.shields.io/badge/Git-3D1A6B?style=for-the-badge&logo=git&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-7B6A9E?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Bitbucket-7B6A9E?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-7d599b?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Bitbucket-7d599b?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Docker-3D1A6B?style=for-the-badge&logo=docker&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Cypress-3D1A6B?style=for-the-badge&logo=cypress&logoColor=white" height="28" />
 
-  <img src="https://img.shields.io/badge/Sentry-7B6A9E?style=for-the-badge&logo=sentry&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Vercel-7B6A9E?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Netlify-7B6A9E?style=for-the-badge&logo=netlify&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Sentry-7d599b?style=for-the-badge&logo=sentry&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Vercel-7d599b?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Netlify-7d599b?style=for-the-badge&logo=netlify&logoColor=white" height="28" />
 </div>
 
 ### AI
@@ -184,9 +184,9 @@ Developer Tooling · Design Systems · Front-End Engineering · UX for Technical
   <img src="https://img.shields.io/badge/Vercel_v0-3D1A6B?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Hugging_Face-3D1A6B?style=for-the-badge&logo=huggingface&logoColor=white" height="28" />
 
-  <img src="https://img.shields.io/badge/ChatGPT-7B6A9E?style=for-the-badge&logo=openaigym&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Claude-7B6A9E?style=for-the-badge&logo=claude&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Gemini-7B6A9E?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/ChatGPT-7d599b?style=for-the-badge&logo=openaigym&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Claude-7d599b?style=for-the-badge&logo=claude&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Gemini-7d599b?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Google_Stitch-8741aa?style=for-the-badge&logo=google&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Figma_Make-8741aa?style=for-the-badge&logo=figma&logoColor=white" height="28" />
 </div>
