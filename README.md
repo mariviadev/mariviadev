@@ -41,8 +41,8 @@ A browser-first accessibility and SEO assistant that generates alt text, caption
 
 Accessibility · AI Integration · SEO Tooling · Product Development
 
-[![View Code](https://img.shields.io/badge/View_Code_→-3D1A6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo)
-[![View Live Demo](https://img.shields.io/badge/View_Live_Demo_→-8741aa?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/yourusername/your-repo)
+[![View Code](https://img.shields.io/badge/View_Code_→-3D1A6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariviadev/altura-image-accessibility)
+[![View Live](https://img.shields.io/badge/View_Live_→-8741aa?style=for-the-badge&logo=vercel&logoColor=white)](https://altura-image-accessibility.vercel.app/)
 
 ---
 
@@ -70,8 +70,9 @@ A full-stack mobile food delivery experience exploring authentication, search, s
 
 Mobile Development · Authentication · State Management · App Architecture
 
-[![View Code](https://img.shields.io/badge/View_Code_→-3D1A6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo)
-[![View Demo](https://img.shields.io/badge/View_Demo_→-8741aa?style=for-the-badge&logo=loom&logoColor=white)](https://github.com/yourusername/your-repo)
+[![View Code](https://img.shields.io/badge/View_Code_→-3D1A6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariviadev/zaiqa-delivery-mobile)
+
+<!-- [![View Demo](https://img.shields.io/badge/View_Demo_→-8741aa?style=for-the-badge&logo=loom&logoColor=white)](https://github.com/mariviadev/zaiqa-delivery-mobile) -->
 
 ---
 
@@ -97,8 +98,8 @@ A visual editor that transforms color selections into exportable VS Code themes 
 
 Developer Tooling · Design Systems · Front-End Engineering · UX for Technical Users
 
-[![View Code](https://img.shields.io/badge/View_Code_→-3D1A6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo)
-[![View Live Demo](https://img.shields.io/badge/View_Live_Demo_→-8741aa?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/yourusername/your-repo)
+[![View Code](https://img.shields.io/badge/View_Code_→-3D1A6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariviadev/codepalettr-theme-builder)
+[![View Live](https://img.shields.io/badge/View_Live_→-8741aa?style=for-the-badge&logo=vercel&logoColor=white)](https://codepalettr.vercel.app/)
 
 ---
 
