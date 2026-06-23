@@ -206,7 +206,9 @@ The best products reduce unnecessary complexity, respect users' time and attenti
 
 ## Thanks for stopping by ✦
 
-Feel free to reach out if you'd like to collaborate or connect at mariamf.khan@outlook.com.
+Feel free to reach out if you'd like to collaborate or connect with me.
+
+[![Email Me](https://img.shields.io/badge/Email_Me-7d599b?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:mariamf.khan@outlook.com)
 
 </div>
 
